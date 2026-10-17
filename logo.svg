@@ -1,0 +1,19 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 左上角：快门按钮与拨轮 -->
+  <path d="M10 16V12C10 10.8954 10.8954 10 12 10H14" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 顶部：相机军舰部 (取景器/闪光灯突起) -->
+  <path d="M17 16L20 9H28L31 16" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 相机主轮廓 (圆润的现代感机身) -->
+  <rect x="5" y="16" width="38" height="26" rx="6" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 中央镜头：光圈 -->
+  <circle cx="24" cy="29" r="8" stroke="#2563EB" stroke-width="3"/>
+  
+  <!-- 镜头内部：重塑时间的时钟指针 (10:10 黄金角度) -->
+  <path d="M24 24.5V29L27 32" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 右上角：魔法星芒 (象征修复与元数据重构) -->
+  <path d="M41 3L42.2 6.8L46 8L42.2 9.2L41 13L39.8 9.2L36 8L39.8 6.8L41 3Z" fill="#2563EB"/>
+</svg>
